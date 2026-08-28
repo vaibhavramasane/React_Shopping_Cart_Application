@@ -16,7 +16,7 @@ A responsive **Shopping Cart Application** built using **React.js**, JavaScript,
 
 ### 🌐 Live Demo
 
-[View Project](https://vaibhavramasane.github.io/React_Shopping_Cart_Application/)
+[View Project](https://vaibhavramasane.github.io/React_Shopping_Cart_Application/?utm_source=chatgpt.com)
 
 ### 👨‍💻 Author
 
